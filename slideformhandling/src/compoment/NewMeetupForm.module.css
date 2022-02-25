@@ -1,0 +1,25 @@
+.form{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.action input{
+    width: 80%;
+    height: 70%;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: 0.23rem solid green;
+    
+
+}
+.action label{
+    display: block;
+    color: blueviolet;
+}
+
+.action textarea{
+    background-color: antiquewhite;
+    border: 0.23rem solid green;
+    
+
+}
